@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3ca3b9b-083f-48d6-b122-cda1bdca6277" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$model.coverage" NAME="model Coverage Results" MODIFIED="1547806197433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code" />
+    <SUITE FILE_PATH="coverage/python$chapter12Python.coverage" NAME="chapter12Python访问数据库并进行分块统计 Coverage Results" MODIFIED="1548136593245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code" />
+    <SUITE FILE_PATH="coverage/python$chapter5Logitic__.coverage" NAME="chapter5Logitic回归(银行贷款拖欠率) Coverage Results" MODIFIED="1547617414899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02chapter5挖掘建模/code" />
+    <SUITE FILE_PATH="coverage/python$chapter5.coverage" NAME="chapter5用聚类进行离群点检测模型 Coverage Results" MODIFIED="1548058904895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02chapter5挖掘建模/code" />
+    <SUITE FILE_PATH="coverage/python$chapter15.coverage" NAME="chapter15原始数据去重 Coverage Results" MODIFIED="1548066943590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code" />
+    <SUITE FILE_PATH="coverage/python$python.coverage" NAME="python数据分析挖掘实战 Coverage Results" MODIFIED="1548136775209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/python$chapter13Adaptive_Lasso.coverage" NAME="chapter13Adaptive_Lasso变量选择模型 Coverage Results" MODIFIED="1547977284689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/code" />
+    <SUITE FILE_PATH="coverage/python$chapter5Apriori.coverage" NAME="chapter5关联规则Apriori算法模型 Coverage Results" MODIFIED="1547703958846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02chapter5挖掘建模/code" />
+    <SUITE FILE_PATH="coverage/python$chapter8Apriori.coverage" NAME="chapter8Apriori关联规则算法 Coverage Results" MODIFIED="1547873274446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05chapter8中医证型关联规则挖掘/code" />
+    <SUITE FILE_PATH="coverage/python$chapter3.coverage" NAME="chapter3相关性分析 Coverage Results" MODIFIED="1547431630082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00chapter3数据探索/code" />
+    <SUITE FILE_PATH="coverage/python$chapter6CART.coverage" NAME="chapter6电力窃漏电用户自动识别的CART决策树模型 Coverage Results" MODIFIED="1547788257472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/code" />
+    <SUITE FILE_PATH="coverage/python$chapter11D.coverage" NAME="chapter11存储使用时序图D盘 Coverage Results" MODIFIED="1547952749186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code" />
+    <SUITE FILE_PATH="coverage/python$chapter8.coverage" NAME="chapter8数据聚类离散化 Coverage Results" MODIFIED="1547872187619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05chapter8中医证型关联规则挖掘/code" />
+    <SUITE FILE_PATH="coverage/python$GM11.coverage" NAME="GM11 Coverage Results" MODIFIED="1548049107540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/code" />
+    <SUITE FILE_PATH="coverage/python$Kmeans_cluster_model.coverage" NAME="Kmeans_cluster_model Coverage Results" MODIFIED="1547810334114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code" />
+    <SUITE FILE_PATH="coverage/python$chapter14.coverage" NAME="chapter14层次聚类模型 Coverage Results" MODIFIED="1548060487899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code" />
+    <SUITE FILE_PATH="coverage/python$SVM_Model.coverage" NAME="SVM_Model Coverage Results" MODIFIED="1547877443729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06chapter9基于水色图像的SVM水质自动评价/code" />
+    <SUITE FILE_PATH="coverage/python$chapter11.coverage" NAME="chapter11基于预测结果的模型评价 Coverage Results" MODIFIED="1547959249266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code" />
+    <SUITE FILE_PATH="coverage/python$chapter7.coverage" NAME="chapter7数据探索和预处理 Coverage Results" MODIFIED="1547805193487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code" />
+    <SUITE FILE_PATH="coverage/python$chapter5ARIMA.coverage" NAME="chapter5企业销售额的ARIMA时序分析模型 Coverage Results" MODIFIED="1547954830681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02chapter5挖掘建模/code" />
+    <SUITE FILE_PATH="coverage/python$4_3_data_discretization.coverage" NAME="4-3_data_discretization Coverage Results" MODIFIED="1547453533189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/我的文件/e-book/计算机科学/数据挖掘和分析/0-Python数据分析与挖掘实战/Python数据分析与挖掘实战/chapter4/demo/code" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1547889227121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code" />
+    <SUITE FILE_PATH="coverage/python$chapter11C.coverage" NAME="chapter11存储使用时序图C盘 Coverage Results" MODIFIED="1547952681764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code" />
+    <SUITE FILE_PATH="coverage/python$chapter5K_Means.coverage" NAME="chapter5K-Means客户消费行为聚类分析 Coverage Results" MODIFIED="1547699994360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02chapter5挖掘建模/code" />
+    <SUITE FILE_PATH="coverage/python$chapter6.coverage" NAME="chapter6数据预处理：用拉格朗日插值法补充缺失数据 Coverage Results" MODIFIED="1547718993885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/code" />
+    <SUITE FILE_PATH="coverage/python$chapter6LM.coverage" NAME="chapter6电力窃漏电用户自动识别的LM神经网络模型 Coverage Results" MODIFIED="1547885930236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/code" />
+    <SUITE FILE_PATH="coverage/python$chapter4Python.coverage" NAME="chapter4Python常用数据预处理函数 Coverage Results" MODIFIED="1547612828513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01chapter4数据预处理/code" />
+    <SUITE FILE_PATH="coverage/python$chapter3Python.coverage" NAME="chapter3Python常用数据分析函数 Coverage Results" MODIFIED="1547435085084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00chapter3数据探索/code" />
+    <SUITE FILE_PATH="coverage/python$chapter10.coverage" NAME="chapter10两层神经网络模型 Coverage Results" MODIFIED="1547890495740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code" />
+    <SUITE FILE_PATH="coverage/python$chapter13.coverage" NAME="chapter13财政收入灰色预测模型 Coverage Results" MODIFIED="1548054917382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/code" />
+    <SUITE FILE_PATH="coverage/python$chapter4.coverage" NAME="chapter4主成分分析 Coverage Results" MODIFIED="1547611471354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01chapter4数据预处理/code" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sort</find>
+      <find>data1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/cm_plot.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5用神经网络算法预测销量.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5客户消费行为聚类分析.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/apriori.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5离群点检测模型.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5用聚类进行离群点检测模型.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5关联规则Apriori算法模型.py" />
+        <option value="$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/code/chapter6数据预处理：用拉格朗日插值法补充缺失数据.py" />
+        <option value="$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/test.py" />
+        <option value="$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/code/chapter6电力窃漏电用户自动识别的CART决策树模型.py" />
+        <option value="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code/chapter7数据探索分析.py" />
+        <option value="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code/两个时间之差换算成月份.py" />
+        <option value="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code/chapter7数据探索和预处理.py" />
+        <option value="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code/model.py" />
+        <option value="$PROJECT_DIR$/04chapter7航空公司客户价值聚类分析模型/code/Kmeans_cluster_model.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5K-Means客户消费行为聚类分析.py" />
+        <option value="$PROJECT_DIR$/05chapter8中医症型关联规则挖掘/code/chapter8数据聚类离散化.py" />
+        <option value="$PROJECT_DIR$/05chapter8中医证型关联规则挖掘/code/chapter8数据聚类离散化.py" />
+        <option value="$PROJECT_DIR$/05chapter8中医证型关联规则挖掘/code/chapter8Apriori关联规则算法.py" />
+        <option value="$PROJECT_DIR$/06chapter9基于水色图像的SVM水质自动评价/code/SVM_Model.py" />
+        <option value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10划分一次完整的用水事件.py" />
+        <option value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10阈值寻优模型.py" />
+        <option value="$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/code/chapter6电力窃漏电用户自动识别的LM神经网络模型.py" />
+        <option value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10多层神经网络模型.py" />
+        <option value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/test.py" />
+        <option value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10两层神经网络模型.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11属性变换.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5K-Means分析结果可视化函数.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11存储使用时序图C盘.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11存储使用时序图D盘.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11平稳性检测.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11白噪声检测.py" />
+        <option value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5企业销售额的ARIMA时序分析模型.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11模型识别.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11用模型进行预测.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11模型检验.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11模型检验和预测.py" />
+        <option value="$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11基于预测结果的模型评价.py" />
+        <option value="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/code/chapter13原始数据概括性度量和相关性分析.py" />
+        <option value="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/code/chapter13Adaptive_Lasso变量选择模型.py" />
+        <option value="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/code/GM11.py" />
+        <option value="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/code/chapter13财政收入灰色预测模型.py" />
+        <option value="$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型/说明" />
+        <option value="$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code/chapter14数据预处理.py" />
+        <option value="$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code/chapter14谱系聚类模型.py" />
+        <option value="$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code/chapter14层次聚类模型.py" />
+        <option value="$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code/chapter15数据抽取和预处理.py" />
+        <option value="$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code/chapter15原始数据去重.py" />
+        <option value="$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code/chapter12Python访问数据库.py" />
+        <option value="$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code/chapter12Python访问数据库并进行分块统计.py" />
+        <option value="$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code/访问数据库并进行分块统计.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-33" />
+    <option name="width" value="1346" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\data2" />
+      <recent name="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\10chapter13某城市财政收入影响因素分析及预测模型\code" />
+      <recent name="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\05chapter8中医证型关联规则挖掘\code" />
+      <recent name="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\03chapter5电力窃漏电用户自动识别\code" />
+      <recent name="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\02chapter5挖掘建模\code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jupyter Notebook.python数据分析挖掘实战">
+    <configuration name="python数据分析挖掘实战" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\python数据分析挖掘实战\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter10两层神经网络模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10两层神经网络模型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter10阈值寻优模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10阈值寻优模型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter10多层神经网络模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10多层神经网络模型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter12Python访问数据库" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\09chapter12电商网站用户行为分析及服务推荐\code\chapter12Python访问数据库并进行分块统计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter12Python访问数据库并进行分块统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code/chapter12Python访问数据库并进行分块统计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter14谱系聚类模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\11chapter14基于基站定位数据的商圈分析\code\chapter14层次聚类模型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter14层次聚类模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code/chapter14层次聚类模型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter15数据抽取和预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\清水木华\PycharmProjects\python数据分析挖掘实战\12chapter15电商产品评价文本数据的挖掘分析\code\chapter15原始数据抽取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter15原始数据去重" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code/chapter15原始数据去重.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter5用聚类进行离群点检测模型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python数据分析挖掘实战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02chapter5挖掘建模/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5用聚类进行离群点检测模型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chapter12Python访问数据库" />
+        <item itemvalue="Python.chapter15数据抽取和预处理" />
+        <item itemvalue="Python.chapter5用聚类进行离群点检测模型" />
+        <item itemvalue="Python.chapter14谱系聚类模型" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3ca3b9b-083f-48d6-b122-cda1bdca6277" name="Default Changelist" comment="" />
+      <created>1547378854514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547378854514</updated>
+      <workItem from="1547378856165" duration="6637000" />
+      <workItem from="1547426666107" duration="35298000" />
+      <workItem from="1547689446009" duration="47810000" />
+      <workItem from="1547863126945" duration="17165000" />
+      <workItem from="1547886056146" duration="2451000" />
+      <workItem from="1547888851501" duration="5205000" />
+      <workItem from="1547949876601" duration="19054000" />
+      <workItem from="1548045747269" duration="12507000" />
+      <workItem from="1548133879857" duration="3852000" />
+      <workItem from="1548150612753" duration="1497000" />
+      <workItem from="1548228792333" duration="307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="151783000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39485627" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32854864" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.37161085" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39872408" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32854864" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.354067" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32854864" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32854864" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32854864" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="368" y="64" width="893" height="593" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10划分一次完整的用水事件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="66" lean-forward="true" selection-start-line="14" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10阈值寻优模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/test.py" />
+    <entry file="file://$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/outputfiles/二层神经网络权重.model">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03chapter5电力窃漏电用户自动识别/code/chapter6电力窃漏电用户自动识别的LM神经网络模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07chapter10家电用户行为分析与模式识别/code/chapter10两层神经网络模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/outputfiles/C盘存储使用时序图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11存储使用时序图D盘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11存储使用时序图C盘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/outputfiles/D盘存储使用时序图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11平稳性检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="45" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11白噪声检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/venv/(网易云)深度学习-tensorflow实践/Lib/site-packages/pandas/core/nanops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5企业销售额的ARIMA时序分析模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="71" column="54" lean-forward="true" selection-start-line="69" selection-end-line="71" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11用模型进行预测.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/venv/(网易云)深度学习-tensorflow实践/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="4164" selection-start-line="4164" selection-end-line="4164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11模型识别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11模型检验和预测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11基于预测结果的模型评价.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08chapter11企业应用系统负载分析与磁盘容量预测/code/chapter11属性变换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型(未完成)/code/chapter13Adaptive_Lasso变量选择模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型(未完成)/code/chapter13原始数据概括性度量和相关性分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/venv/(网易云)深度学习-tensorflow实践/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="3117" selection-start-line="3117" selection-end-line="3117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型(未完成)/code/GM11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型(未完成)/说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10chapter13某城市财政收入影响因素分析及预测模型(未完成)/code/chapter13财政收入灰色预测模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="e#192#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/outputfiles/谱系聚类图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5K-Means分析结果可视化函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02chapter5挖掘建模/code/chapter5用聚类进行离群点检测模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/venv/(网易云)深度学习-tensorflow实践/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="911" selection-start-line="911" selection-end-line="911" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/venv/(网易云)深度学习-tensorflow实践/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="2812" selection-start-line="2812" selection-end-line="2812" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/outputfiles/type_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/outputfiles/type_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/outputfiles/type_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code/chapter14层次聚类模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="46" column="45" lean-forward="true" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11chapter14基于基站定位数据的商圈分析/code/chapter14数据预处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/C15_huizong.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-340391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/outputfiles/meidi_jd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1311" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code/chapter15原始数据抽取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/outputfiles/meidi_jd_1_quchong.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1418107" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/C15_meidi_jd_process_2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/C15_meidi_jd_neg.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12chapter15电商产品评价文本数据的挖掘分析/code/chapter15原始数据去重.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/C15_myDict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503631" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/C15_stoplist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code/访问数据库并进行分块统计.ipynb" />
+    <entry file="file://$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code/chapter12Python访问数据库并进行分块统计.py" />
+    <entry file="file://C:/我的文件/e-book/计算机科学/数据挖掘和分析/0-Python数据分析与挖掘实战/Python数据分析与挖掘实战/chapter12/demo/code/12-7_sql_data_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09chapter12电商网站用户行为分析及服务推荐/code/chapter12Py访问数据库并进行分块统计.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
